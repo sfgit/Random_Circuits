@@ -17,4 +17,4 @@ You will notice some things that are prerequisties to making this stuff work in 
 
 - Secondly, all documents adopt a standardized sheet to sheet connectivity schema (i.e. flat, hierarchical, etc).  
 
-More details to come... :)
+More details to come... :)  (note: this is a work in progress and the contents of this project are not warrantied and carry no guarantee as to suitability, what-not.  Electronics can kill.  Be careful and be sure to evaluate and test any circuits you see here, before you decide to build them.  If you do not, you may be injured and I do not guarantee that any of this stuff actually works.
